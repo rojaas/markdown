@@ -1,6 +1,6 @@
 # Giovanni
 ## h2 header
 ###### OMIS Major
-![Image of Yaktocat](https://media4.giphy.com/media/r7VI6tstyHU0xm1ZWU/giphy.gif)
+![Football celebration](https://github.com/rojaas/markdown/blob/main/giphy.gif)
 - [ ] Pass classes
 - [ ] Graduate
